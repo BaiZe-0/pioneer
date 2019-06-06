@@ -14,7 +14,7 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
     <Filter Include="函数">
-      <UniqueIdentifier>{f185fb98-90a0-450a-90af-69a847d0e682}</UniqueIdentifier>
+      <UniqueIdentifier>{41ccf388-fb75-46d4-9237-963438abaf63}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
