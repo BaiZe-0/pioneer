@@ -3,7 +3,7 @@
 typedef struct
 {
 	int course_number;		//课程编号
-	char course_name[128];	//课程名称
+	char course_name[129];	//课程名称
 	int course_hours;		//学时
 	int course_people;		//限选人数
 } Course;
