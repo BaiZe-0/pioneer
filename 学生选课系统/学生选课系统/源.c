@@ -10,7 +10,7 @@ typedef struct
 typedef struct
 {
 	int student_number;		//学号
-	char student_name[128]; //姓名
+	char student_name[129]; //姓名
 	int course_number;		//课程编号
 } Student;
 #include<stdio.h>
