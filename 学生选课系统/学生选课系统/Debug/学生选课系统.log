@@ -2,4 +2,15 @@
 e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\函数.c(1): warning C4081: 应输入“newline”；找到“;”
 e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\函数.c(170): warning C4047: “函数”:“int”与“void *”的间接级别不同
 e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\函数.c(170): warning C4024: “memset”: 形参和实参 2 的类型不同
+  源.c
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(2): warning C4081: 应输入“newline”；找到“;”
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(43): warning C4013: “fun1”未定义；假设外部返回 int
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(46): warning C4013: “fun2”未定义；假设外部返回 int
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(49): warning C4013: “fun3”未定义；假设外部返回 int
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(52): warning C4013: “fun4”未定义；假设外部返回 int
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(55): warning C4013: “fun5”未定义；假设外部返回 int
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(58): warning C4013: “fun6”未定义；假设外部返回 int
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(61): warning C4013: “fun7”未定义；假设外部返回 int
+e:\学生选课管理系统\pioneer\学生选课系统\学生选课系统\源.c(64): warning C4013: “fun8”未定义；假设外部返回 int
+  正在生成代码...
   学生选课系统.vcxproj -> E:\学生选课管理系统\pioneer\学生选课系统\Debug\学生选课系统.exe
