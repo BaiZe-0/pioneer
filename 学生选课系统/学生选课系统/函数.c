@@ -80,14 +80,16 @@ void fun3(Student * student,Course * course)
 			}
 		}
 
-		
+		int k;
 		while (1)
 		{
-			int k = -1;
-			do {
-				k++;
-			} while (student[i].course_number2 != course[k].course_number1);
-			sum[k]++;
+			for (k = 0; k < N; k++)
+			{
+				if (student[i].course_number2 == course[k].course_number1)
+					break;
+			}
+			sum[k]=sum[k]+1;
+			
 			if (sum[k] > course[k].course_people)
 			{
 				printf("编号为%d的课程超过限定人数，更改所选课程编号：\n", course[k].course_number1);
